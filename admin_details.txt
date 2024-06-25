@@ -1,0 +1,2 @@
+email -> admin1@dikuss.com
+password -> admin123
